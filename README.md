@@ -9,7 +9,9 @@ The user rates four qualities:
 - communication skills
 - discipline
 
-The app uses a probability formula to calculate the final percentage and gives a short explanation of the result.
+The app applies a formula to the four self-rated qualities and displays a percentage with a short explanation.
+
+This is an educational scoring model. The percentage should not be interpreted as a validated prediction of a student's future success.
 
 ## Project Story
 
@@ -26,6 +28,10 @@ There were many participants, but our project received recognition in the compet
 - Python
 - Probability theory
 - Desktop GUI
+
+## Repository Scope
+
+This repository contains the Windows executable, presentation and certificate. Python source code and a reproducible build are not currently published here.
 
 ## Project Files
 
